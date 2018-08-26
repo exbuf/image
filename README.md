@@ -4,7 +4,7 @@ Program name: image.py
 
 Born: August 13, 2018 
 
-Updated: August 26, 2018 15:00 (added screen to show input for text color)
+Updated: August 26, 2018 16:30 (added screen to show input for text color)
 
 Author: Robert D. Schoening
 
