@@ -1,7 +1,7 @@
 '''
 Program name: image.py
 Born: August 13, 2018 
-Updated: August 26, 2018 15:00 (added a prompt to wm() for text color so it stands out against any background color) 
+Updated: August 26, 2018 16:30 (added a prompt to wm() for text color so it stands out against any background color) 
 
 Author: Robert D. Schoening, https://www.robertdschoening.com
 Code and documentation: https://github.com/exbuf/Shrink
