@@ -1,4 +1,4 @@
-"# Shrink" 
+"# image" 
 
 Program name: image.py
 
