@@ -12,7 +12,7 @@ Author: Robert D. Schoening
 OVERVIEW
 --------
 1. <b>image.py</b> has three features that operate independently: 
-- Watermark Feature: 
+- <b>Watermark Feature</b>: 
 add a text watermark to all images in a directory (see Figures 1 and 2). 
 - Black-and White Feature: create black-and-white copies of all images in a directory (see Figure 3). 
 - Shrink Feature: shrink all images in a directory (see Figure 4). (Emailing smaller image files was the inspiration for the  program.) 
