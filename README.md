@@ -15,7 +15,7 @@ OVERVIEW
   - <b>1. ADD TEXT WATERMARKS TO IMAGES</b>: 
 adds a text watermark to all images in a directory (see Figures 1 and 2). 
   - <b>2. CONVERT COLOR IMAGES TO BLACK-AND-WHITE</b>: creates black-and-white copies of all images in a directory (see Figure 3). 
-  - <b>3. SHRINK IMAGES</b>: shrinks all images in a directory (see Figure 4). (Emailing smaller image files was the inspiration for the  program.) 
+  - <b>3. SHRINK IMAGES</b>: shrinks all images in a directory (see Figure 4). (Creating smaller image files for attaching to emails was the inspiration for this  program.) 
 2. The program prints on the screen the name of the original file, the name of the newly created file, and the time it took to create that file. Any non-image files that reside in the directory are ignored. Your original<sup>1</sup> images are unaltered. See the screen captures below.
 3. A copy of image.py (the program) must reside in the same directory as your image files. (K.I.S.S.)
 4. You can have different directories for different sets of images, but each directory must have a copy of image.py. To process images one-at-a-time, just put one image in the directory at a time.   
