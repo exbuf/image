@@ -11,7 +11,7 @@ Author: Robert D. Schoening
 
 OVERVIEW
 --------
-1. <b>Image.py</b> has three features. All operate independently: 
+1. <b>Image.py</b> has three features. All operate independently. (Detailed description below): 
   - <b>1. ADD TEXT WATERMARKS TO IMAGES</b>: 
 add a text watermark to all images in a directory (see Figures 1 and 2). 
   - <b>2. CONVERT COLOR IMAGES TO BLACK-AND-WHITE</b>: create black-and-white copies of all images in a directory (see Figure 3). 
