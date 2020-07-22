@@ -1,6 +1,6 @@
 "# image" 
 
-Program name: image.py
+Program name: <b>image.py</b>
 
 Born: August 13, 2018 
 
