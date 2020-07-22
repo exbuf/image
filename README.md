@@ -4,7 +4,7 @@ Program name: image.py
 
 Born: August 13, 2018 
 
-Updated: July 18, 2020
+Updated: July 22, 2020
 
 Author: Robert D. Schoening
 
