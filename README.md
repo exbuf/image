@@ -11,11 +11,11 @@ Author: Robert D. Schoening
 
 OVERVIEW
 --------
-1. <b>image.py</b> has three features that operate independently: 
-  - <b>Watermark Feature</b>: 
+1. <b>Image.py</b> has three features. All operate independently: 
+  <b>1. ADD TEXT WATERMARKS TO IMAGES</b>: 
 add a text watermark to all images in a directory (see Figures 1 and 2). 
-  - <b>Black-and-White Feature</b>: create black-and-white copies of all images in a directory (see Figure 3). 
-  - <b>Shrink Feature</b>: shrink all images in a directory (see Figure 4). (Emailing smaller image files was the inspiration for the  program.) 
+  <b>2. CONVERT COLOR IMAGES TO BLACK-AND-WHITE</b>: create black-and-white copies of all images in a directory (see Figure 3). 
+  <b>3. SHRINK IMAGES</b>: shrink all images in a directory (see Figure 4). (Emailing smaller image files was the inspiration for the  program.) 
 2. The program prints on the screen the name of the original file, the name of the newly created file, and the time it took to create that file. Any non-image files that reside in the directory are ignored. Your original<sup>1</sup> images are unaltered. See the screen captures below.
 3. A copy of image.py (the program) must reside in the same directory as your image files. (K.I.S.S.)
 4. You can have different directories for different sets of images, but each directory must have a copy of image.py. To process images one-at-a-time, just put one image in the directory at a time.   
